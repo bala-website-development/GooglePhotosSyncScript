@@ -11,6 +11,8 @@ def create_local_folders():
         os.makedirs(LOCAL_PHOTOS_FOLDER_PATH)
     if not os.path.exists(ARCHIVE_FOLDER_PATH):
         os.makedirs(ARCHIVE_FOLDER_PATH)
+    if not os.path.exists(ERROR_FOLDER_PATH):
+        os.makedirs(ERROR_FOLDER_PATH)
 
 # Function to get the access token
 def get_access_token(credentials_path, scopes):
@@ -103,12 +105,25 @@ def upload_photo_to_google_photos(file_path, album_id, access_token):
 
             if response.status_code == 200:
                 print(f"Added {file_path} to the album.")
+                move_photo_to_archive(file_path)
             else:
                 print(f"Failed to add {file_path} to the album.")
+                move_photo_to_error_folder(file_path)
+
         else:
             print(f"Failed to upload {file_path} to Google Photos.")
     else:
         print(f"Failed to get upload token for {file_path}.")
+
+
+# Function to move the photo to the error folder
+def move_photo_to_error_folder(file_path):
+    filename = os.path.basename(file_path)
+    errored_file_path = os.path.join(ERROR_FOLDER_PATH, filename)
+    os.rename(file_path, errored_file_path)
+    print(f"Moved {filename} to the error folder.")
+
+
 
 # Function to move the photo to the archive folder
 def move_photo_to_archive(file_path):
@@ -149,7 +164,7 @@ def sync_photos_to_google_photos(local_photos_folder_path):
         if filename.lower().endswith(('.jpg', '.jpeg', '.png', '.gif')):
             file_path = os.path.join(local_photos_folder_path, filename)
             upload_photo_to_google_photos(file_path, album_id, access_token)
-            move_photo_to_archive(file_path)
+            
     
     delete_token_file()
 
