@@ -10,7 +10,7 @@ Before using the script, ensure you have the following:
 2. The required Python libraries are installed. Install them using the following command:
 
 ```bash
-pip install google-auth google-auth-oauthlib google-auth-httplib2
+pip3 install google-auth google-auth-oauthlib google-auth-httplib2
 ```
 
 ## Configuration
@@ -60,3 +60,10 @@ The script performs the following steps:
 - Please ensure that your Google Cloud project has the necessary permissions to use the Google Photos Library API.
 - It is recommended to run the script periodically to keep your local photos folder in sync with the designated Google Photos album.
 - Make sure that the paths for the local photos folder and the archive folder exist before running the script. If not, the script will attempt to create them.
+
+## Run
+##top install
+pip3 install google-auth google-auth-oauthlib google-auth-httplib2
+Run python3 SyncPhotosAPI.py
+List ls
+Copy path pwd
