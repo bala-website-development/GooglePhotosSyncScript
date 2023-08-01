@@ -1,0 +1,62 @@
+# Documentation for Photo Sync to Google Photos Script
+
+This documentation provides an overview of the Python script designed to sync local photos to Google Photos using the Google Photos Library API. The script allows you to upload photos from a specified local folder to a designated album on Google Photos. Additionally, it moves the uploaded photos to an archive folder to keep track of synchronized media items.
+
+## Requirements
+
+Before using the script, ensure you have the following:
+
+1. Python 3.x installed on your system.
+2. The required Python libraries are installed. Install them using the following command:
+
+```bash
+pip install google-auth google-auth-oauthlib google-auth-httplib2
+```
+
+## Configuration
+
+1. Create a Google Cloud Platform project and enable the Google Photos Library API.
+2. Obtain the necessary API credentials from the Google Cloud Console:
+   - Download the client ID and secret in JSON format.
+   - Save the downloaded JSON file as "creds.json".
+   - Place the JSON file in the same directory as the script.
+3. Set up the required configuration parameters in the "config.py" file:
+
+```python
+# Replace with your Google Photos album name
+ALBUM_NAME = "My Google Photos Album"
+
+# Replace with the path to your local photos folder
+LOCAL_PHOTOS_FOLDER_PATH = "/path/to/your/local/photos/folder"
+
+# Replace with the path to the archive folder
+ARCHIVE_FOLDER_PATH = "/path/to/your/archive/folder"
+```
+
+## Usage
+
+1. Place the script file ("sync_photos_to_google_photos.py") in the same directory as the "config.py" file.
+2. Ensure that the required Python libraries are installed (see "Requirements" section).
+3. Run the script using the following command:
+
+```bash
+python sync_photos_to_google_photos.py
+```
+
+## How the Script Works
+
+The script performs the following steps:
+
+1. Checks if the "token.json" file exists in the script directory. If not, it initiates the OAuth 2.0 flow to get the access token and saves it to "token.json" for future use.
+2. Authenticates with the Google Photos Library API using the obtained access token.
+3. Checks if the specified album ("ALBUM_NAME") already exists in Google Photos. If not, it creates a new album.
+4. Scans the specified local photos folder ("LOCAL_PHOTOS_FOLDER_PATH") for image files (JPEG, PNG, GIF) to upload.
+5. For each image file found, the script uploads it to Google Photos, adds it to the designated album, and moves it to the archive folder.
+6. Deletes the "token.json" file after the sync is complete to ensure a new access token is obtained the next time the script is run.
+
+## Notes
+
+- The script will only upload photos that have not been uploaded to the specified album previously. It checks for duplicates based on the upload token returned by the Google Photos API.
+- Please ensure that your Google Cloud project has the necessary permissions to use the Google Photos Library API.
+- It is recommended to run the script periodically to keep your local photos folder in sync with the designated Google Photos album.
+- Make sure that the paths for the local photos folder and the archive folder exist before running the script. If not, the script will attempt to create them.
