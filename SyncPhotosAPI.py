@@ -98,22 +98,23 @@ def upload_photo_to_google_photos(file_path, album_id, access_token):
         if response.status_code == 200:
             response_data = response.json()
             media_item_id = response_data["newMediaItemResults"][0]["mediaItem"]["id"]
-            print(f"Uploaded {file_path} to Google Photos. Media Item ID: {media_item_id}")
+            print(f"Uploaded {filename} to Google Photos.")
+            #print(f" Media Item ID: {media_item_id}")
             url = f"https://photoslibrary.googleapis.com/v1/albums/{album_id}:batchAddMediaItems"
             payload = {"mediaItemIds": [media_item_id]}
             response = requests.post(url, data=json.dumps(payload), headers=headers)
 
             if response.status_code == 200:
-                print(f"Added {file_path} to the album.")
+                print(f"Added {filename} to the album.")
                 move_photo_to_archive(file_path)
             else:
-                print(f"Failed to add {file_path} to the album.")
+                print(f"Failed to add {filename} to the album.")
                 move_photo_to_error_folder(file_path)
 
         else:
-            print(f"Failed to upload {file_path} to Google Photos.")
+            print(f"Failed to upload {filename} to Google Photos.")
     else:
-        print(f"Failed to get upload token for {file_path}.")
+        print(f"Failed to get upload token for {filename}.")
 
 
 # Function to move the photo to the error folder
