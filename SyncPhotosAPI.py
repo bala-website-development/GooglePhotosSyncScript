@@ -105,7 +105,7 @@ def upload_photo_to_google_photos(file_path, album_id, access_token):
             response = requests.post(url, data=json.dumps(payload), headers=headers)
 
             if response.status_code == 200:
-                print(f"Added {filename} to the album.")
+                #print(f"Added {filename} to the album.")
                 move_photo_to_archive(file_path)
             else:
                 print(f"Failed to add {filename} to the album.")
