@@ -1,18 +1,31 @@
 import os
 import json
 import requests
+import logging
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from config import *
 
+# Configure the logger
+logging.basicConfig(
+    filename='google_photos_sync.log',
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
+
 # Function to create the local folders if they don't exist
 def create_local_folders():
-    if not os.path.exists(LOCAL_PHOTOS_FOLDER_PATH):
-        os.makedirs(LOCAL_PHOTOS_FOLDER_PATH)
-    if not os.path.exists(ARCHIVE_FOLDER_PATH):
-        os.makedirs(ARCHIVE_FOLDER_PATH)
-    if not os.path.exists(ERROR_FOLDER_PATH):
-        os.makedirs(ERROR_FOLDER_PATH)
+    try:
+        if not os.path.exists(LOCAL_PHOTOS_FOLDER_PATH):
+            os.makedirs(LOCAL_PHOTOS_FOLDER_PATH)
+        if not os.path.exists(ARCHIVE_FOLDER_PATH):
+            os.makedirs(ARCHIVE_FOLDER_PATH)
+        if not os.path.exists(ERROR_FOLDER_PATH):
+            os.makedirs(ERROR_FOLDER_PATH)
+    except IOError as e:
+        logger.error(f"Error creating folders: {e}")
+            
 
 # Function to get the access token
 def get_access_token(credentials_path, scopes):
@@ -39,7 +52,7 @@ def get_album_by_title(access_token, ALBUM_NAME):
         albums = response.json().get("albums", [])
         for album in albums:
             if album["title"] == ALBUM_NAME:
-                print(f"Album '{ALBUM_NAME}' already exists with ID: {album['id']}")
+                logger.info(f"Album '{ALBUM_NAME}' already exists with ID: {album['id']}")
                 return album
     else:
         print(f"Failed to get albums list. Error code: {response.status_code}")
@@ -98,7 +111,7 @@ def upload_photo_to_google_photos(file_path, album_id, access_token):
         if response.status_code == 200:
             response_data = response.json()
             media_item_id = response_data["newMediaItemResults"][0]["mediaItem"]["id"]
-            print(f"Uploaded {filename} to Google Photos.")
+            #print(f"Uploaded {filename} to Google Photos.")
             #print(f" Media Item ID: {media_item_id}")
             url = f"https://photoslibrary.googleapis.com/v1/albums/{album_id}:batchAddMediaItems"
             payload = {"mediaItemIds": [media_item_id]}
@@ -108,13 +121,13 @@ def upload_photo_to_google_photos(file_path, album_id, access_token):
                 #print(f"Added {filename} to the album.")
                 move_photo_to_archive(file_path)
             else:
-                print(f"Failed to add {filename} to the album.")
+                logger.error(f"Failed to add {filename} to the album.")
                 move_photo_to_error_folder(file_path)
 
         else:
-            print(f"Failed to upload {filename} to Google Photos.")
+            logger.error(f"Failed to upload {filename} to Google Photos.")
     else:
-        print(f"Failed to get upload token for {filename}.")
+        logger.error(f"Failed to get upload token for {filename}.")
 
 
 # Function to move the photo to the error folder
@@ -131,7 +144,7 @@ def move_photo_to_archive(file_path):
     filename = os.path.basename(file_path)
     archive_file_path = os.path.join(ARCHIVE_FOLDER_PATH, filename)
     os.rename(file_path, archive_file_path)
-    print(f"Moved {filename} to the archive folder.")
+    #print(f"Moved {filename} to the archive folder.")
 
 #Function to remove the token file once the upload is done
 def delete_token_file():
@@ -139,10 +152,17 @@ def delete_token_file():
         os.remove('token.json')
 
 
+# Function to count the total number of files (excluding folders) in a directory
+def count_files_in_directory(directory):
+    count = 0
+    for item in os.listdir(directory):
+        if os.path.isfile(os.path.join(directory, item)) and item.lower().endswith(('.jpg', '.jpeg', '.png', '.gif')) :
+            count += 1
+    return count
+
+
 # Main function to sync photos to Google Photos
 def sync_photos_to_google_photos(local_photos_folder_path):
-
-    create_local_folders()
 
     credentials_path = CREDENTIAL_FILE
     scopes = ["https://www.googleapis.com/auth/photoslibrary"]
@@ -160,18 +180,29 @@ def sync_photos_to_google_photos(local_photos_folder_path):
         album_id = create_album(access_token, ALBUM_NAME)
         if album_id is None:
             return
+    
+    total_files = count_files_in_directory(local_photos_folder_path)
+    uploaded_count = 0
 
     for filename in os.listdir(local_photos_folder_path):
         if filename.lower().endswith(('.jpg', '.jpeg', '.png', '.gif')):
             file_path = os.path.join(local_photos_folder_path, filename)
             upload_photo_to_google_photos(file_path, album_id, access_token)
+            uploaded_count += 1
+            print(f"Uploaded {uploaded_count}/{total_files} files in Google Photos.")
+    
+    logger.info(f"successfully completed the upload in Google photos for {ALBUM_NAME}")
             
     
     delete_token_file()
 
 
 def main():
-    sync_photos_to_google_photos(LOCAL_PHOTOS_FOLDER_PATH)
+    try:
+        create_local_folders()
+        sync_photos_to_google_photos(LOCAL_PHOTOS_FOLDER_PATH)
+    except Exception as e:
+        logger.error(f"An error occurred: {e}")
 
 if __name__ == "__main__":
     main()
