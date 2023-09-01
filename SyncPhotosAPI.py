@@ -74,7 +74,7 @@ def create_album(access_token, ALBUM_NAME):
         print(f"Album '{ALBUM_NAME}' created with ID: {album_id}")
         return album_id
     else:
-        print(f"Failed to create the album '{ALBUM_NAME}'.")
+        print(f"Failed to create the album '{ALBUM_NAME}'. Try Deleting Token.json")
         return None
 
 # Function to upload a photo to Google Photos
