@@ -1,0 +1,361 @@
+2023-08-15 13:59:21,203 - INFO - "GET /?state=4oeqEdt3t94YT9br3uDykf1uOkJto0&code=4/0Adeu5BWODQ0rHJewksBR7UcfxalU-SLQDnvwbj2amMrukVUGqOwzN_KIXGvpif0RnOQe5A&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-15 14:17:48,757 - INFO - successfully completed the upload in Google photos for Atlanta | Aug | 2023
+2023-08-20 11:32:33,917 - INFO - "GET /?state=9lzqx1w92ojHzxKifu2UT40u0aflHl&code=4/0Adeu5BVj78EXPi7pSFVMeS0Em9HPSphHGhs-QEaYGu6l177UItuQDb2iWigpQ6AzbCcFew&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-20 11:34:56,958 - INFO - successfully completed the upload in Google photos for Honda Civic 2020
+2023-08-20 11:48:41,246 - INFO - "GET /?state=irafUfd7232vBuvPy6BBBijq9tHWeX&code=4/0Adeu5BXBcBT-HvU1itLFOxrC6stUpQm11IxZjKeuD5BY-Rf6SvXvu12fxUXSCM70GLnYBg&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-20 11:48:42,385 - INFO - Album 'Honda Civic 2020' already exists with ID: AMmQqlerC7A4PwJTCTmMYuSCPeNS9NnMExFjUAIYYz66Y0ga-PgOPtl6I5TLEVxYvSbn6nUp7dAv
+2023-08-20 11:48:54,351 - INFO - successfully completed the upload in Google photos for Honda Civic 2020
+2023-08-20 23:14:29,490 - INFO - "GET /?state=c0YRBteuhwuYP0QvoNkwxVyepIqkKD&code=4/0Adeu5BW1s3To2stfu9zaokJW6oVmwdvadUvwMmR0krsNdaV0ua117Q2NJ468OIncj-o2Fg&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-20 23:14:31,222 - INFO - successfully completed the upload in Google photos for Farm Picking 2023
+2023-08-20 23:15:03,977 - INFO - "GET /?state=z9XdyOJlUge8RRZc7axJIaHCmAudL4&code=4/0Adeu5BUfmfSqbz-BqlFh0lOqAyMrawBXKuWK7EJmEUNvMhkPSlGacW2njP1FKicIZNfolw&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-20 23:15:06,040 - INFO - successfully completed the upload in Google photos for Farm Picking 2023
+2023-08-20 23:16:24,245 - INFO - "GET /?state=6PJVmR5RWmECY1UXwMGyTM2UkM2bFh&code=4/0Adeu5BVzhZ15nqglgwhx7kAu4LPHlxuCo7j6I58RdBn0HsVajNbbvA0HrQ55UYNNLavjxQ&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-20 23:20:39,721 - INFO - successfully completed the upload in Google photos for Farm Picking 2023
+2023-08-21 22:25:55,731 - INFO - "GET /?state=U0LDcP9AjwLu6PSJdltIypEeCu8rNn&code=4/0Adeu5BWDs4tbwNJLmCkUT-Reiqq82FWxUz8hD5wGQ6T4btT-RDQlIw-38Ifx1cfdfaTCQw&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-21 22:25:56,820 - INFO - Album 'SuBa Reels/Shorts' already exists with ID: AMmQqldxO1325k3SLmeTo7xED-6kb20Ym3QlWspa-8QkJTcGlOYCccc5cWJlNtHKpYFPqI17iemg
+2023-08-21 22:25:56,881 - INFO - successfully completed the upload in Google photos for SuBa Reels/Shorts
+2023-08-21 22:28:25,581 - INFO - "GET /?state=rCm9CQmJNN9tY3FfY5DQQFGwTRncnv&code=4/0Adeu5BWjhFiS7Dbl2vrB0-KU1Du7rrKEl8a8Cgaq1HBKEirZnu9Pl0bNd5_TVZsOGLU-TA&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-21 22:28:26,505 - INFO - Album 'SuBa Reels/Shorts' already exists with ID: AMmQqldxO1325k3SLmeTo7xED-6kb20Ym3QlWspa-8QkJTcGlOYCccc5cWJlNtHKpYFPqI17iemg
+2023-08-21 22:29:37,118 - ERROR - Failed to add Costo Winter Glove.MOV to the album.
+2023-08-21 22:30:50,316 - ERROR - Failed to add Costo Billing.mov to the album.
+2023-08-21 22:31:21,231 - ERROR - Failed to add Costco Milk.MOV to the album.
+2023-08-24 14:06:08,018 - INFO - "GET /?state=OY8LVeRthsOaf7d7ljM0GBm1ZqTuz4&code=4/0Adeu5BXnNlPuhMxu91_Q8_TGB1A9iRhS40Vf5aKYpNG_46KOmNjevmsgT-hrZcspIu-R9w&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-24 14:14:36,859 - INFO - successfully completed the upload in Google photos for Kanak & Sowmiya HouseWarming
+2023-08-24 14:15:01,559 - INFO - "GET /?state=ekGJYtPyDw7b3OLnh3O8V5OnuFewCs&code=4/0Adeu5BVEiLvHTzfLCqtEK5yozmb_mnKF6iVke9OWTr4II3MmomveRhW7H6W4GzsLWXtApw&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-24 14:15:02,693 - INFO - Album 'Kanak & Sowmiya HouseWarming' already exists with ID: AMmQqldolVoxFt0rPGgCTatGQMyPAnufflftLgtp44N1EI_LrWWhJFLeBYrfBDNuMdx8SHiffQMg
+2023-08-24 14:15:08,566 - INFO - successfully completed the upload in Google photos for Kanak & Sowmiya HouseWarming
+2023-08-24 14:15:53,005 - INFO - "GET /?state=v6bz8dJ6NUr2ReckibRzx5hldznBdy&code=4/0Adeu5BXK-H_zS53jumsX3K_QuJJ5JuM1QJf8bweV3ilFU2HZwyFkLYSGX-ZrrLix39cj5g&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-24 14:15:54,029 - INFO - Album 'Kanak & Sowmiya HouseWarming' already exists with ID: AMmQqldolVoxFt0rPGgCTatGQMyPAnufflftLgtp44N1EI_LrWWhJFLeBYrfBDNuMdx8SHiffQMg
+2023-08-24 14:15:54,034 - INFO - successfully completed the upload in Google photos for Kanak & Sowmiya HouseWarming
+2023-08-24 14:17:04,350 - INFO - "GET /?state=KmfYMx5Y8n3ljdiR6zPN8mKjigSpoW&code=4/0Adeu5BVlSJ09EEoaE29dzSKjrzHgZ0DcOy6jG0Qmf_w-2DWaoGP_01Zm1NQiRfcgcQ704A&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-24 14:17:05,302 - INFO - Album 'Kanak & Sowmiya HouseWarming' already exists with ID: AMmQqldolVoxFt0rPGgCTatGQMyPAnufflftLgtp44N1EI_LrWWhJFLeBYrfBDNuMdx8SHiffQMg
+2023-08-24 14:17:05,306 - INFO - successfully completed the upload in Google photos for Kanak & Sowmiya HouseWarming
+2023-08-27 22:55:30,211 - INFO - "GET /?state=86D8F4h1YZKkaCk2PNGwiKpTUn9ueJ&code=4/0Adeu5BXkJCB0Ltn4EVLbBqViequaY-8yvoDE1rVkqXg8rSVe3OC_BSU--U_3x72EjDw-cQ&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-27 22:56:57,268 - INFO - successfully completed the upload in Google photos for HTKY Aug 27th
+2023-08-28 16:51:09,583 - INFO - "GET /?state=vTAUsYMJx4eJGEVT6MvxH2NVWTWJBU&code=4/0Adeu5BVNW1KwKGDzPt2L5YFWeXt59d3OXHudtFzIZtnC_RdDnyX1E-orL6C8oUSF0BwhOw&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-28 16:51:10,867 - INFO - Album 'HTKY Aug 27th' already exists with ID: AMmQqlclsu7V-Lt46YTzofQUpyLL5UF_rAdxM-uGOHBbPTqt7VSkrW3rWp8DYRrLoZ2ncbIqFNTa
+2023-08-28 16:53:13,770 - ERROR - An error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-08-28 17:03:35,641 - INFO - Album 'HTKY Aug 27th' already exists with ID: AMmQqlclsu7V-Lt46YTzofQUpyLL5UF_rAdxM-uGOHBbPTqt7VSkrW3rWp8DYRrLoZ2ncbIqFNTa
+2023-08-28 21:40:52,413 - ERROR - Error creating folders: [Errno 13] Permission denied: '/Volumes/BalaSSD/Mac'
+2023-08-28 21:41:06,568 - ERROR - Error creating folders: [Errno 13] Permission denied: '/Volumes/BalaSSD/Mac'
+2023-08-28 21:41:16,300 - INFO - "GET /?state=RRQSzAy9FuF97QDutHsP1y1tVdTvRy&code=4/0Adeu5BUqezunJPQQkOLwG17Jz3hr-XZwdt-umBN0DL_u1mkaY4zSGTR5BbxMZKVvdhiy4A&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-28 21:41:17,848 - INFO - Album 'HTKY Aug 27th' already exists with ID: AMmQqlclsu7V-Lt46YTzofQUpyLL5UF_rAdxM-uGOHBbPTqt7VSkrW3rWp8DYRrLoZ2ncbIqFNTa
+2023-08-28 21:41:17,853 - ERROR - An error occurred: [Errno 2] No such file or directory: '/Volumes/BalaSSD/Mac/Temp/Temple Day 2/Pics/Web'
+2023-08-28 21:41:59,983 - ERROR - Error creating folders: [Errno 13] Permission denied: '/Volumes/BalaSSD/Mac'
+2023-08-28 21:42:00,780 - INFO - Album 'HTKY Aug 27th' already exists with ID: AMmQqlclsu7V-Lt46YTzofQUpyLL5UF_rAdxM-uGOHBbPTqt7VSkrW3rWp8DYRrLoZ2ncbIqFNTa
+2023-08-28 21:42:00,783 - ERROR - An error occurred: [Errno 2] No such file or directory: '/Volumes/BalaSSD/Mac/Temp/Temple Day 2/Pics/Web'
+2023-08-28 21:45:35,593 - ERROR - Error creating folders: [Errno 13] Permission denied: '/Volumes/BalaSSD/Mac'
+2023-08-28 21:45:37,226 - INFO - Album 'HTKY Aug 27th' already exists with ID: AMmQqlclsu7V-Lt46YTzofQUpyLL5UF_rAdxM-uGOHBbPTqt7VSkrW3rWp8DYRrLoZ2ncbIqFNTa
+2023-08-28 21:45:37,229 - ERROR - An error occurred: [Errno 2] No such file or directory: '/Volumes/BalaSSD/Mac/Temp/Temple Day 2/Pics/Web'
+2023-08-28 22:17:00,704 - ERROR - Error creating folders: [Errno 13] Permission denied: '/Volumes/BalaSSD/Mac'
+2023-08-28 22:17:09,085 - INFO - "GET /?state=kWB445BNHFhX3IK0cHAXh39EhNOMYN&code=4/0Adeu5BWtO1ymI_wxQP0ITd1xA1gMfEk6L8FiRD0QVgzBVhdO_x9SRGbeQ2ueyD_JfRLxfg&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-28 22:17:10,404 - INFO - Album 'HTKY Aug 27th' already exists with ID: AMmQqlclsu7V-Lt46YTzofQUpyLL5UF_rAdxM-uGOHBbPTqt7VSkrW3rWp8DYRrLoZ2ncbIqFNTa
+2023-08-28 22:17:10,414 - ERROR - An error occurred: [Errno 2] No such file or directory: '/Volumes/BalaSSD/Mac/Temp/Temple Day 2/Pics/Web'
+2023-08-31 10:26:23,860 - ERROR - Error creating folders: [Errno 13] Permission denied: '/Volumes/BalaSSD/Mac'
+2023-08-31 10:26:41,383 - ERROR - Error creating folders: [Errno 13] Permission denied: '/Volumes/BalaSSD/Mac'
+2023-08-31 10:26:53,252 - INFO - "GET /?state=JvgzWc2j59FAYz6DSV3nLp0NQNh6CP&code=4/0Adeu5BX-KvYt_LN2T4e4oELOsXJHQ0vsswf7hq7HusJggS1RlF65CjBDzAnxJAhjpqyV_g&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-31 10:26:55,651 - ERROR - An error occurred: [Errno 2] No such file or directory: '/Volumes/BalaSSD/Mac/Temp/Temple Day 4 Aug 30/Pics/Web'
+2023-08-31 10:27:23,766 - ERROR - Error creating folders: [Errno 13] Permission denied: '/Volumes/BalaSSD/Mac'
+2023-08-31 10:27:25,327 - ERROR - An error occurred: [Errno 2] No such file or directory: '/Volumes/BalaSSD/Mac/Temp/Temple Day 4 Aug 30/Pics/Web'
+2023-08-31 10:27:32,886 - ERROR - Error creating folders: [Errno 13] Permission denied: '/Volumes/BalaSSD/Mac'
+2023-08-31 10:27:34,669 - ERROR - An error occurred: [Errno 2] No such file or directory: '/Volumes/BalaSSD/Mac/Temp/Temple Day 4 Aug 30/Pics/Web'
+2023-08-31 10:33:56,008 - INFO - successfully completed the upload in Google photos for HTKY Aug 30
+2023-08-31 23:35:48,957 - INFO - "GET /?state=L9L2WC5WT4lPW9F0nkT3uTFgYdDEVW&code=4/0Adeu5BUBQFSoi3j7LB4RNCzcnp9JkHubJUBMBES4ksphRtezvTLif6UfkqGxUeU8IZruSg&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-08-31 23:49:14,641 - INFO - successfully completed the upload in Google photos for HTKY Aug 31
+2023-09-02 08:43:31,058 - INFO - "GET /?state=fYoVTncZEUUI4LAiRgSSQWabJBTler&code=4/0Adeu5BVAKgp29fKpRN1ZpO0mddgWcqunDFiTfcpSeR58RzmC8fYCgPtSMZe3ieAXoqJTMQ&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-09-02 08:43:33,902 - INFO - successfully completed the upload in Google photos for HTKY Sep 1
+2023-09-02 08:44:07,033 - INFO - "GET /?state=A9WPHJYhBgerfDZnY5KLWjF0CAOMye&code=4/0Adeu5BW3f9jdKsGVFq2nf-jiL0QK3qzhzrvzbHeN_pw5YKTC24J0OOkRrgsrbs8cFx0oxw&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-09-02 08:45:15,641 - ERROR - An error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-09-02 08:46:12,726 - INFO - Album 'HTKY Sep 1' already exists with ID: AMmQqle3ike3X9HkXp1RNKcCs39FvdemnFIVdxY6ubKfxmntlG1wAs-mFYkP_UXi6Khgttylt8pX
+2023-09-02 08:56:28,295 - ERROR - An error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-09-02 09:20:55,890 - INFO - Album 'HTKY Sep 1' already exists with ID: AMmQqle3ike3X9HkXp1RNKcCs39FvdemnFIVdxY6ubKfxmntlG1wAs-mFYkP_UXi6Khgttylt8pX
+2023-09-02 09:44:23,885 - ERROR - Failed to upload 2H6A0378.jpg to Google Photos.
+2023-09-02 09:44:34,184 - ERROR - Failed to upload DSC01331.jpg to Google Photos.
+2023-09-02 09:44:37,583 - ERROR - Failed to upload DSC01325.jpg to Google Photos.
+2023-09-02 09:44:39,749 - ERROR - Failed to upload DSC01443.jpg to Google Photos.
+2023-09-02 09:44:45,904 - ERROR - Failed to add DSC01319.jpg to the album.
+2023-09-02 09:44:49,164 - ERROR - Failed to upload DSC01286.jpg to Google Photos.
+2023-09-02 09:44:51,617 - ERROR - An error occurred: cannot access local variable 'filename' where it is not associated with a value
+2023-09-02 10:24:09,271 - INFO - "GET /?state=SMbtZKMSUlpR9H1whDC11GZ7Uv8BcZ&code=4/0Adeu5BU3dJ89Zxu0Hz72BRCq_Y9e6mdTlAgNnHWqxjvZd2WQE0IbA4N7GImrKUcWbnd0Aw&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-09-02 10:24:10,718 - INFO - Album 'HTKY Sep 1' already exists with ID: AMmQqle3ike3X9HkXp1RNKcCs39FvdemnFIVdxY6ubKfxmntlG1wAs-mFYkP_UXi6Khgttylt8pX
+2023-09-02 10:33:27,347 - ERROR - An error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-09-02 10:34:38,536 - INFO - Album 'HTKY Sep 1' already exists with ID: AMmQqle3ike3X9HkXp1RNKcCs39FvdemnFIVdxY6ubKfxmntlG1wAs-mFYkP_UXi6Khgttylt8pX
+2023-09-02 10:36:14,644 - ERROR - Failed to add DSC01539.jpg to the album.
+2023-09-02 10:36:20,272 - ERROR - Failed to add 2H6A0570.jpg to the album.
+2023-09-02 10:36:47,009 - ERROR - An error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-09-02 10:37:05,320 - INFO - Album 'HTKY Sep 1' already exists with ID: AMmQqle3ike3X9HkXp1RNKcCs39FvdemnFIVdxY6ubKfxmntlG1wAs-mFYkP_UXi6Khgttylt8pX
+2023-09-02 10:39:38,403 - ERROR - An error occurred: HTTPSConnectionPool(host='photoslibrary.googleapis.com', port=443): Max retries exceeded with url: /v1/uploads (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:2423)')))
+2023-09-02 10:39:53,038 - INFO - Album 'HTKY Sep 1' already exists with ID: AMmQqle3ike3X9HkXp1RNKcCs39FvdemnFIVdxY6ubKfxmntlG1wAs-mFYkP_UXi6Khgttylt8pX
+2023-09-02 10:49:09,491 - ERROR - Failed to upload 2H6A0172.jpg to Google Photos.
+2023-09-02 10:49:13,783 - ERROR - Failed to upload DSC01674.jpg to Google Photos.
+2023-09-02 10:49:22,303 - ERROR - Failed to add 2H6A0371.jpg to the album.
+2023-09-02 11:08:34,715 - INFO - "GET /?state=TtpsWVrCLHWL11irAPE7wSNGQj9Hwc&code=4/0Adeu5BVZR2muF542AMJ7TuiVb7hr05sL785TXjcItSXL-uAt6idZNdr2Yjt5COZXSrYTsQ&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-09-02 11:08:35,943 - INFO - Album 'HTKY Sep 1' already exists with ID: AMmQqle3ike3X9HkXp1RNKcCs39FvdemnFIVdxY6ubKfxmntlG1wAs-mFYkP_UXi6Khgttylt8pX
+2023-09-02 11:20:18,252 - ERROR - Failed to add DSC01403.jpg to the album.
+2023-09-02 11:21:25,642 - ERROR - Failed to add 2H6A0477.jpg to the album.
+2023-09-02 11:22:25,899 - INFO - successfully completed the upload in Google photos for HTKY Sep 1
+2023-09-29 20:31:03,890 - INFO - "GET /?state=35UYwFFlxmYbabssOxUFcYjlDY45Km&code=4/0AfJohXlSHM8Ky0C_Ni_UIDRCZBbh54uzXS1Vhspie0Pu1X5xX1tkTWbJmf2MQTGNY9DoGg&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-09-29 21:12:33,706 - ERROR - An error occurred: HTTPSConnectionPool(host='photoslibrary.googleapis.com', port=443): Max retries exceeded with url: /v1/uploads (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:2423)')))
+2023-09-29 21:14:38,874 - INFO - Album 'House Warming | Sep 24 | 2023' already exists with ID: AMmQqleOe4vD8OOZ0L1eDZb_SSZmZukEFcgYThVsoTABwEXnCTKugj5tgns4jPa7szYkEkjwYKKh
+2023-09-29 21:17:03,389 - INFO - successfully completed the upload in Google photos for House Warming | Sep 24 | 2023
+2023-11-13 18:20:42,791 - INFO - "GET /?state=fPiGNom8BOlMyugqz3gHoCzf4rScyu&code=4/0AfJohXkKevxCzzyORBtKuWBEM89ORQMHou6PKa75MOeETjRZOThD1xMvUsrytMNW_439Qg&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-11-13 18:20:51,850 - INFO - successfully completed the upload in Google photos for TCS-Humana Diwali | 2023
+2023-11-14 14:20:08,207 - INFO - "GET /?state=2zyuxGqsPmcxksSDHLLh7RtNndIfbz&code=4/0AfJohXnulnQwYPb5K-4____FskhyK3DA8Y0-WTsWU-RV6nbtuSPWdC2tMK12rHOFOB8emA&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-11-14 14:20:10,690 - INFO - Album 'TCS-Humana Diwali | 2023' already exists with ID: AMmQqlfig-22ICV7V9FaY0EBIMNL0isEJ7qyjj_xXg2TayYJkhMkVc99zo7lU_KMEpvIOycFGrrU
+2023-11-14 14:20:21,694 - INFO - successfully completed the upload in Google photos for TCS-Humana Diwali | 2023
+2023-11-14 14:36:16,039 - INFO - "GET /?state=N59nZI8DFRMGZKH2XH7I9IMRyUe5M1&code=4/0AfJohXmbdd1BM9NI2j_qg08wl77uRG1luuDoett75ufwgpSR0FOf0g2p21wyjGP4QJqckg&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-11-14 14:36:18,116 - INFO - Album 'TCS-Humana Diwali | 2023' already exists with ID: AMmQqlfig-22ICV7V9FaY0EBIMNL0isEJ7qyjj_xXg2TayYJkhMkVc99zo7lU_KMEpvIOycFGrrU
+2023-11-14 14:36:18,122 - INFO - successfully completed the upload in Google photos for TCS-Humana Diwali | 2023
+2023-11-14 15:11:36,305 - INFO - "GET /?state=PgV2URD3OVd3MBWmau2x7LvHFFuVuV&code=4/0AfJohXksVmtfmTGlDNO-KVaTD7DIY-cabrIUS6fQu1r92QLZTRhbNy0-aFgyodem9LWOBw&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-11-14 15:11:38,462 - INFO - Album 'TCS-Humana Diwali | 2023' already exists with ID: AMmQqlfig-22ICV7V9FaY0EBIMNL0isEJ7qyjj_xXg2TayYJkhMkVc99zo7lU_KMEpvIOycFGrrU
+2023-11-14 15:14:05,257 - INFO - successfully completed the upload in Google photos for TCS-Humana Diwali | 2023
+2023-11-15 12:42:46,122 - INFO - "GET /?state=Vj9bZ84ASfbE6ylUCVTqZlWpIW71Dt&code=4/0AfJohXmUR-05_HWKj-WZRLkDtJG7ndKVgEv8utTb2-Un-MlrcJ4PGjrqkmjmKsaJ7fWORA&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-11-15 12:42:48,450 - INFO - Album 'TCS-Humana Diwali | 2023' already exists with ID: AMmQqlfig-22ICV7V9FaY0EBIMNL0isEJ7qyjj_xXg2TayYJkhMkVc99zo7lU_KMEpvIOycFGrrU
+2023-11-15 12:47:59,564 - ERROR - Failed to add IMG_9507.JPG to the album.
+2023-11-15 12:48:48,805 - INFO - successfully completed the upload in Google photos for TCS-Humana Diwali | 2023
+2023-11-15 13:05:09,931 - INFO - "GET /?state=YzOYftOCptTiW5WodAszXeGveuoEj4&code=4/0AfJohXn6pgZthL49N8iznLvlRlkx4J0qLUOI_zKyKwSu6i2r8IxyfcLJkcEUsgtoiynBGw&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-11-15 13:05:12,187 - INFO - Album 'TCS-Humana Diwali | 2023' already exists with ID: AMmQqlfig-22ICV7V9FaY0EBIMNL0isEJ7qyjj_xXg2TayYJkhMkVc99zo7lU_KMEpvIOycFGrrU
+2023-11-15 13:05:45,659 - INFO - successfully completed the upload in Google photos for TCS-Humana Diwali | 2023
+2023-11-15 13:39:16,030 - INFO - "GET /?state=vdhfQv8FS1lVWK4kSrY8Je4YC4IkqA&code=4/0AfJohXlKjndXL9so6rCu7GN2UJdhuf14jQ2ipOpt3CbG9rUTMZt1jHNJmcsksA5FM1lE4g&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-11-15 13:39:18,210 - INFO - Album 'TCS-Humana Diwali | 2023' already exists with ID: AMmQqlfig-22ICV7V9FaY0EBIMNL0isEJ7qyjj_xXg2TayYJkhMkVc99zo7lU_KMEpvIOycFGrrU
+2023-11-15 13:43:48,199 - INFO - successfully completed the upload in Google photos for TCS-Humana Diwali | 2023
+2023-11-15 13:55:35,891 - INFO - "GET /?state=IqSsrH3HiobtVIbeRpNaztOGeB1GXq&code=4/0AfJohXmLWPCjzturoF1G-MLrNJpMCD5WiZ64rmkqilYmwEaPCLxD4AgXfV0LYeOZqiMhZg&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-11-15 13:55:38,076 - INFO - Album 'TCS-Humana Diwali | 2023' already exists with ID: AMmQqlfig-22ICV7V9FaY0EBIMNL0isEJ7qyjj_xXg2TayYJkhMkVc99zo7lU_KMEpvIOycFGrrU
+2023-11-15 13:58:48,472 - INFO - successfully completed the upload in Google photos for TCS-Humana Diwali | 2023
+2023-11-15 14:05:09,900 - INFO - "GET /?state=jQK7UC3IgB2BhyYjRLRkHIleQh5tN7&code=4/0AfJohXmJDYHBR5tMoITlxk1hxTRDfwW1feuPOVX7bCI1UnyordhjLVRLlTQHWzOaQ3mQ-Q&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-11-15 14:05:11,726 - INFO - Album 'TCS-Humana Diwali | 2023' already exists with ID: AMmQqlfig-22ICV7V9FaY0EBIMNL0isEJ7qyjj_xXg2TayYJkhMkVc99zo7lU_KMEpvIOycFGrrU
+2023-11-15 14:08:27,445 - INFO - successfully completed the upload in Google photos for TCS-Humana Diwali | 2023
+2023-11-15 17:24:12,828 - INFO - "GET /?state=ACHospa0QHuP8H6sgLWRH54zT1u5js&code=4/0AfJohXmU3l79oLL6DaQZm8nwzWMWr7rHGTQk21Pk2qZzkTQSdB7qEXlEYAz-YulStVsEkw&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2023-11-15 17:24:13,973 - INFO - Album 'TCS-Humana Diwali | 2023' already exists with ID: AMmQqlfig-22ICV7V9FaY0EBIMNL0isEJ7qyjj_xXg2TayYJkhMkVc99zo7lU_KMEpvIOycFGrrU
+2023-11-15 17:25:12,009 - INFO - successfully completed the upload in Google photos for TCS-Humana Diwali | 2023
+2024-11-13 19:24:51,362 - INFO - "GET /?state=aVJGn227st1kGE68oeyO3fqVTGvQR3&code=4/0AeanS0YtOORCVgreAKXFUBTzMhhXASExVZpoal7Bf_5LJDZELXm0K6LrXEVe5ZRNSEhILA&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2024-11-13 19:24:52,150 - INFO - Album 'SRE TCS | Humana | Thanks Giving | Diwali Celebration | KY | 2024' already exists with ID: AMmQqldfxXBymmfgvmcuMcHiFHEn76wB8N4Fx0oC9om8KyBD9ppjkF2qIzglYJv_ZEdpPe0nL5F7
+2024-11-13 19:24:54,375 - ERROR - Failed to add welcome.jpg to the album.
+2024-11-13 19:24:54,376 - INFO - successfully completed the upload in Google photos for SRE TCS | Humana | Thanks Giving | Diwali Celebration | KY | 2024
+2024-11-13 19:26:24,666 - INFO - "GET /?state=5mgmzRfYnLytrMtgo6hH7dh5d9mfm5&code=4/0AeanS0anI5sTaslCigFQK-1K-hLTnfQhZmyxASxtLY58SgGpNw5D-LVUH7Hp8iHTQtV-CQ&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2024-11-13 19:26:25,511 - INFO - Album 'SRE TCS | Humana | Thanks Giving | Diwali Celebration | KY | 2024' already exists with ID: AMmQqldfxXBymmfgvmcuMcHiFHEn76wB8N4Fx0oC9om8KyBD9ppjkF2qIzglYJv_ZEdpPe0nL5F7
+2024-11-13 19:26:27,559 - ERROR - Failed to add Louisville-Kentucky.jpg to the album.
+2024-11-13 19:26:27,561 - INFO - successfully completed the upload in Google photos for SRE TCS | Humana | Thanks Giving | Diwali Celebration | KY | 2024
+2024-11-13 19:28:52,233 - INFO - "GET /?state=bNC5hVWPzXpXNwf85uCc01TWYqGoks&code=4/0AeanS0byma9N4lXq-FwXrN4lfrbVKIHJ75O-nIrgL09LWONJb3WY1Z5CfZgcnTm90PlxVA&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2024-11-13 19:28:52,970 - INFO - Album 'SRETCSHumana' already exists with ID: AMmQqldfxXBymmfgvmcuMcHiFHEn76wB8N4Fx0oC9om8KyBD9ppjkF2qIzglYJv_ZEdpPe0nL5F7
+2024-11-13 19:28:54,711 - ERROR - Failed to add Louisville-Kentucky.jpg to the album.
+2024-11-13 19:28:54,712 - INFO - successfully completed the upload in Google photos for SRETCSHumana
+2024-11-13 19:31:26,530 - INFO - "GET /?state=I24iX9m65cI6XnBAcvFrRyjNsBRZK5&code=4/0AeanS0YENZARrhfk0r8W8dFMPzYmwIo_u2j4SbYJWS9xk0ZXZJX80UJ_IIoRyMKeZFryhw&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2024-11-13 19:31:30,259 - INFO - successfully completed the upload in Google photos for SRE TCS Humana Holiday Celebration - 2024
+2024-11-13 19:32:26,222 - INFO - "GET /?state=CqN4LCevIo86leeBETyicAFSbcQNcP&code=4/0AeanS0aVuRnG_F1TaxkbLEv_9p7Vfe2Qt1PSC5aczx6i3dQeb4V7-qvMSM8RAj7Zs0fXzA&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2024-11-13 19:32:26,988 - INFO - Album 'SRE TCS Humana Holiday Celebration - 2024' already exists with ID: AMmQqlcY7lWvQDJ7ktRpZrlfktK0e4-f0BfPvfHSJLQ9VnwsptLSkj38ARVLkCUuA3-EIelWGppw
+2024-11-13 19:32:29,756 - INFO - successfully completed the upload in Google photos for SRE TCS Humana Holiday Celebration - 2024
+2024-11-14 13:49:22,285 - INFO - "GET /?state=PL2gtfh76Uul68zmyf8tkMcoumTMgm&code=4/0AeanS0bDOHlqy9441cktomLl1TvzvMpbMzMwYXkz9UfJgo32uNfJJOmZpsGhmUhwul8hqQ&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2024-11-14 13:49:23,012 - INFO - Album 'SRE TCS Humana Holiday Celebration - 2024' already exists with ID: AMmQqlcY7lWvQDJ7ktRpZrlfktK0e4-f0BfPvfHSJLQ9VnwsptLSkj38ARVLkCUuA3-EIelWGppw
+2024-11-14 13:50:04,448 - ERROR - Failed to upload SSN_4892.JPG to Google Photos.
+2024-11-14 13:50:05,556 - ERROR - Failed to upload SSN_4886.JPG to Google Photos.
+2024-11-14 13:50:06,614 - ERROR - Failed to upload SSN_4648.JPG to Google Photos.
+2024-11-14 13:50:10,037 - ERROR - Failed to upload SSN_4884.JPG to Google Photos.
+2024-11-14 13:50:11,186 - ERROR - Failed to upload SSN_4674.JPG to Google Photos.
+2024-11-14 13:50:14,877 - ERROR - Failed to upload SSN_4853.JPG to Google Photos.
+2024-11-14 13:50:16,554 - ERROR - Failed to add SSN_4847.JPG to the album.
+2024-11-14 13:50:17,774 - ERROR - Failed to upload SSN_4728.JPG to Google Photos.
+2024-11-14 13:50:18,782 - ERROR - Failed to upload SSN_4700.JPG to Google Photos.
+2024-11-14 13:50:20,505 - ERROR - Failed to add SSN_4714.JPG to the album.
+2024-11-14 13:50:21,633 - ERROR - Failed to upload SSN_4927.JPG to Google Photos.
+2024-11-14 13:50:22,828 - ERROR - Failed to upload SSN_4932.JPG to Google Photos.
+2024-11-14 13:50:23,742 - ERROR - Failed to upload SSN_4926.JPG to Google Photos.
+2024-11-14 13:50:24,733 - ERROR - Failed to upload SSN_4715.JPG to Google Photos.
+2024-11-14 13:50:26,002 - ERROR - Failed to upload SSN_4701.JPG to Google Photos.
+2024-11-14 13:50:27,381 - ERROR - Failed to upload SSN_4729.JPG to Google Photos.
+2024-11-14 13:50:29,670 - ERROR - Failed to add SSN_4852.JPG to the album.
+2024-11-14 13:50:31,632 - ERROR - Failed to upload SSN_4661.JPG to Google Photos.
+2024-11-14 13:50:39,111 - ERROR - Failed to upload SSN_4891.JPG to Google Photos.
+2024-11-14 13:51:10,525 - ERROR - Failed to upload SSN_4923.JPG to Google Photos.
+2024-11-14 13:51:16,738 - ERROR - Failed to upload SSN_4857.JPG to Google Photos.
+2024-11-14 13:51:17,729 - ERROR - Failed to upload SSN_4880.JPG to Google Photos.
+2024-11-14 13:51:18,765 - ERROR - Failed to upload SSN_4658.JPG to Google Photos.
+2024-11-14 13:51:19,963 - ERROR - Failed to upload SSN_4894.JPG to Google Photos.
+2024-11-14 13:51:21,125 - ERROR - Failed to upload SSN_4670.JPG to Google Photos.
+2024-11-14 13:51:22,457 - ERROR - Failed to upload SSN_4666.JPG to Google Photos.
+2024-11-14 13:51:23,420 - ERROR - Failed to upload SSN_4672.JPG to Google Photos.
+2024-11-14 13:51:24,519 - ERROR - Failed to upload SSN_4882.JPG to Google Photos.
+2024-11-14 13:51:26,181 - ERROR - Failed to add SSN_4869.JPG to the album.
+2024-11-14 13:51:27,986 - ERROR - Failed to add SSN_4841.JPG to the album.
+2024-11-14 13:51:31,472 - ERROR - Failed to upload SSN_4855.JPG to Google Photos.
+2024-11-14 13:51:32,598 - ERROR - Failed to upload SSN_4712.JPG to Google Photos.
+2024-11-14 13:52:06,513 - ERROR - Failed to add SSN_4748.JPG to the album.
+2024-11-14 13:52:08,579 - ERROR - Failed to upload SSN_4984.JPG to Google Photos.
+2024-11-14 13:52:09,754 - ERROR - Failed to upload SSN_4774.JPG to Google Photos.
+2024-11-14 13:52:10,651 - ERROR - Failed to upload SSN_4760.JPG to Google Photos.
+2024-11-14 13:52:12,113 - ERROR - Failed to upload SSN_4953.JPG to Google Photos.
+2024-11-14 13:52:13,763 - ERROR - Failed to upload SSN_4947.JPG to Google Photos.
+2024-11-14 13:52:15,808 - ERROR - Failed to upload SSN_4946.JPG to Google Photos.
+2024-11-14 13:52:17,269 - ERROR - Failed to upload SSN_4775.JPG to Google Photos.
+2024-11-14 13:52:18,969 - ERROR - Failed to upload SSN_4985.JPG to Google Photos.
+2024-11-14 13:52:20,507 - ERROR - Failed to upload SSN_4749.JPG to Google Photos.
+2024-11-14 13:52:22,145 - ERROR - Failed to upload SSN_4826.JPG to Google Photos.
+2024-11-14 13:52:23,652 - ERROR - Failed to upload SSN_4615.JPG to Google Photos.
+2024-11-14 13:52:24,930 - ERROR - Failed to upload SSN_4601.JPG to Google Photos.
+2024-11-14 13:52:26,352 - ERROR - Failed to upload SSN_4629.JPG to Google Photos.
+2024-11-14 13:52:27,903 - ERROR - Failed to add SSN_4617.JPG to the album.
+2024-11-14 13:52:28,989 - ERROR - Failed to upload SSN_4603.JPG to Google Photos.
+2024-11-14 13:52:35,570 - ERROR - Failed to upload SSN_4987.JPG to Google Photos.
+2024-11-14 13:53:07,575 - ERROR - Failed to add SSN_4606.JPG to the album.
+2024-11-14 13:53:09,302 - ERROR - Failed to add SSN_4809.JPG to the album.
+2024-11-14 13:53:10,761 - ERROR - Failed to upload SSN_4835.JPG to Google Photos.
+2024-11-14 13:53:12,101 - ERROR - Failed to upload SSN_4821.JPG to Google Photos.
+2024-11-14 13:53:13,405 - ERROR - Failed to upload SSN_4766.JPG to Google Photos.
+2024-11-14 13:53:14,761 - ERROR - Failed to upload SSN_4772.JPG to Google Photos.
+2024-11-14 13:53:16,141 - ERROR - Failed to upload SSN_4982.JPG to Google Photos.
+2024-11-14 13:53:17,654 - ERROR - Failed to upload SSN_4799.JPG to Google Photos.
+2024-11-14 13:53:19,267 - ERROR - Failed to upload SSN_4941.JPG to Google Photos.
+2024-11-14 13:53:20,788 - ERROR - Failed to upload SSN_4955.JPG to Google Photos.
+2024-11-14 13:53:22,376 - ERROR - Failed to upload SSN_4954.JPG to Google Photos.
+2024-11-14 13:53:23,828 - ERROR - Failed to upload SSN_4940.JPG to Google Photos.
+2024-11-14 13:53:26,580 - ERROR - Failed to upload SSN_4798.JPG to Google Photos.
+2024-11-14 13:53:28,078 - ERROR - Failed to upload SSN_4968.JPG to Google Photos.
+2024-11-14 13:53:30,143 - ERROR - Failed to add SSN_4983.JPG to the album.
+2024-11-14 13:53:31,675 - ERROR - Failed to upload SSN_4773.JPG to Google Photos.
+2024-11-14 13:53:34,262 - ERROR - Failed to add SSN_4820.JPG to the album.
+2024-11-14 13:55:06,840 - ERROR - Failed to add SSN_4755.JPG to the album.
+2024-11-14 13:55:08,398 - ERROR - Failed to upload SSN_4741.JPG to Google Photos.
+2024-11-14 13:55:10,251 - ERROR - Failed to upload SSN_4966.JPG to Google Photos.
+2024-11-14 13:55:11,983 - ERROR - Failed to add SSN_4796.JPG to the album.
+2024-11-14 13:55:13,987 - ERROR - Failed to add SSN_4782.JPG to the album.
+2024-11-14 13:55:15,653 - ERROR - Failed to upload SSN_4797.JPG to Google Photos.
+2024-11-14 13:55:17,589 - ERROR - Failed to upload SSN_4973.JPG to Google Photos.
+2024-11-14 13:55:18,818 - ERROR - Failed to upload SSN_4740.JPG to Google Photos.
+2024-11-14 13:55:19,971 - ERROR - Failed to upload SSN_4754.JPG to Google Photos.
+2024-11-14 13:55:21,466 - ERROR - Failed to upload SSN_4768.JPG to Google Photos.
+2024-11-14 13:55:22,982 - ERROR - Failed to upload SSN_4595.JPG to Google Photos.
+2024-11-14 13:56:17,217 - ERROR - Failed to upload SSN_4964.JPG to Google Photos.
+2024-11-14 13:56:21,668 - ERROR - Failed to add SSN_4743.JPG to the album.
+2024-11-14 13:56:22,691 - ERROR - Failed to upload SSN_4596.JPG to Google Photos.
+2024-11-14 13:56:23,887 - ERROR - Failed to upload SSN_4804.JPG to Google Photos.
+2024-11-14 13:56:24,861 - ERROR - Failed to upload SSN_4810.JPG to Google Photos.
+2024-11-14 13:56:28,739 - ERROR - Failed to upload SSN_4637.JPG to Google Photos.
+2024-11-14 13:56:30,394 - ERROR - Failed to add SSN_4627.JPG to the album.
+2024-11-14 13:57:31,669 - ERROR - Failed to upload SSN_4746.JPG to Google Photos.
+2024-11-14 13:59:16,824 - ERROR - Failed to add SSN_4802.JPG to the album.
+2024-11-14 13:59:18,641 - ERROR - Failed to add SSN_4619.JPG to the album.
+2024-11-14 13:59:19,895 - ERROR - Failed to upload SSN_4631.JPG to Google Photos.
+2024-11-14 13:59:21,208 - ERROR - Failed to upload SSN_4625.JPG to Google Photos.
+2024-11-14 13:59:22,331 - ERROR - Failed to upload SSN_4642.JPG to Google Photos.
+2024-11-14 13:59:23,540 - ERROR - Failed to upload SSN_4656.JPG to Google Photos.
+2024-11-14 13:59:27,546 - ERROR - Failed to upload SSN_4871.JPG to Google Photos.
+2024-11-14 13:59:29,192 - ERROR - Failed to add SSN_4681.JPG to the album.
+2024-11-14 14:00:19,149 - ERROR - Failed to upload SSN_4657.JPG to Google Photos.
+2024-11-14 14:00:21,087 - ERROR - Failed to add SSN_4669.JPG to the album.
+2024-11-14 14:00:22,801 - ERROR - Failed to add SSN_4872.JPG to the album.
+2024-11-14 14:00:24,056 - ERROR - Failed to upload SSN_4866.JPG to Google Photos.
+2024-11-14 14:00:40,092 - ERROR - Failed to upload SSN_4913.JPG to Google Photos.
+2024-11-14 14:00:44,742 - ERROR - Failed to add SSN_4734.JPG to the album.
+2024-11-14 14:00:46,933 - ERROR - Failed to add SSN_4720.JPG to the album.
+2024-11-14 14:01:12,024 - ERROR - Failed to upload SSN_4650.JPG to Google Photos.
+2024-11-14 14:01:20,575 - ERROR - Failed to add SSN_4678.JPG to the album.
+2024-11-14 14:01:22,067 - ERROR - Failed to upload SSN_4693.JPG to Google Photos.
+2024-11-14 14:01:23,931 - ERROR - Failed to upload SSN_4687.JPG to Google Photos.
+2024-11-14 14:01:29,324 - ERROR - Failed to add SSN_4724.JPG to the album.
+2024-11-14 14:01:33,698 - ERROR - Failed to upload SSN_4718.JPG to Google Photos.
+2024-11-14 14:01:36,032 - ERROR - Failed to add SSN_4903.JPG to the album.
+2024-11-14 14:01:45,271 - ERROR - Failed to upload SSN_4876.JPG to Google Photos.
+2024-11-14 14:01:46,890 - ERROR - Failed to add SSN_4686.JPG to the album.
+2024-11-14 14:02:12,457 - ERROR - Failed to upload SSN_4690.JPG to Google Photos.
+2024-11-14 14:02:13,946 - ERROR - Failed to upload SSN_4860.JPG to Google Photos.
+2024-11-14 14:02:15,877 - ERROR - Failed to add SSN_4874.JPG to the album.
+2024-11-14 14:02:17,312 - ERROR - Failed to upload SSN_4733.JPG to Google Photos.
+2024-11-14 14:02:19,770 - ERROR - Failed to add SSN_4727.JPG to the album.
+2024-11-14 14:02:21,081 - ERROR - Failed to upload SSN_4928.JPG to Google Photos.
+2024-11-14 14:02:22,362 - ERROR - Failed to upload SSN_4914.JPG to Google Photos.
+2024-11-14 14:02:24,789 - ERROR - Failed to add SSN_4900.JPG to the album.
+2024-11-14 14:02:32,315 - ERROR - Failed to upload SSN_4929.JPG to Google Photos.
+2024-11-14 14:02:35,919 - ERROR - Failed to upload SSN_4732.JPG to Google Photos.
+2024-11-14 14:02:42,054 - ERROR - Failed to upload SSN_4691.JPG to Google Photos.
+2024-11-14 14:02:51,287 - INFO - successfully completed the upload in Google photos for SRE TCS Humana Holiday Celebration - 2024
+2024-11-14 14:18:27,737 - INFO - "GET /?state=ohlx6E9qLAYvEhQuPPQJt8TwCk7teU&code=4/0AeanS0bTMhfG6KjA6cxcKNOewOrqsmx_RBugu3qdco66Zz0TANd4f2TaQAFy85Gmaaaeow&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2024-11-14 14:18:28,551 - INFO - Album 'SRE TCS Humana Holiday Celebration - 2024' already exists with ID: AMmQqlcY7lWvQDJ7ktRpZrlfktK0e4-f0BfPvfHSJLQ9VnwsptLSkj38ARVLkCUuA3-EIelWGppw
+2024-11-14 14:19:15,349 - ERROR - Failed to upload SSN_4891.JPG to Google Photos.
+2024-11-14 14:19:20,141 - ERROR - Failed to add SSN_4857.JPG to the album.
+2024-11-14 14:19:22,193 - ERROR - Failed to add SSN_4880.JPG to the album.
+2024-11-14 14:19:23,427 - ERROR - Failed to upload SSN_4658.JPG to Google Photos.
+2024-11-14 14:19:27,410 - ERROR - Failed to upload SSN_4670.JPG to Google Photos.
+2024-11-14 14:19:28,675 - ERROR - Failed to upload SSN_4666.JPG to Google Photos.
+2024-11-14 14:19:29,739 - ERROR - Failed to upload SSN_4672.JPG to Google Photos.
+2024-11-14 14:19:31,092 - ERROR - Failed to upload SSN_4882.JPG to Google Photos.
+2024-11-14 14:19:32,451 - ERROR - Failed to upload SSN_4855.JPG to Google Photos.
+2024-11-14 14:19:39,797 - ERROR - Failed to add SSN_4774.JPG to the album.
+2024-11-14 14:20:22,182 - ERROR - Failed to upload SSN_4766.JPG to Google Photos.
+2024-11-14 14:20:23,345 - ERROR - Failed to upload SSN_4772.JPG to Google Photos.
+2024-11-14 14:20:24,769 - ERROR - Failed to upload SSN_4982.JPG to Google Photos.
+2024-11-14 14:20:25,979 - ERROR - Failed to upload SSN_4799.JPG to Google Photos.
+2024-11-14 14:20:27,421 - ERROR - Failed to upload SSN_4941.JPG to Google Photos.
+2024-11-14 14:20:28,747 - ERROR - Failed to upload SSN_4955.JPG to Google Photos.
+2024-11-14 14:20:32,847 - ERROR - Failed to upload SSN_4940.JPG to Google Photos.
+2024-11-14 14:20:34,810 - ERROR - Failed to add SSN_4798.JPG to the album.
+2024-11-14 14:20:44,405 - ERROR - Failed to upload SSN_4966.JPG to Google Photos.
+2024-11-14 14:21:10,237 - ERROR - Failed to add SSN_4810.JPG to the album.
+2024-11-14 14:21:12,267 - ERROR - Failed to add SSN_4637.JPG to the album.
+2024-11-14 14:21:16,701 - ERROR - Failed to upload SSN_4631.JPG to Google Photos.
+2024-11-14 14:21:17,988 - ERROR - Failed to upload SSN_4625.JPG to Google Photos.
+2024-11-14 14:21:19,241 - ERROR - Failed to upload SSN_4642.JPG to Google Photos.
+2024-11-14 14:21:20,461 - ERROR - Failed to upload SSN_4656.JPG to Google Photos.
+2024-11-14 14:21:21,688 - ERROR - Failed to upload SSN_4871.JPG to Google Photos.
+2024-11-14 14:21:22,912 - ERROR - Failed to upload SSN_4657.JPG to Google Photos.
+2024-11-14 14:21:25,092 - ERROR - Failed to add SSN_4866.JPG to the album.
+2024-11-14 14:21:26,377 - ERROR - Failed to upload SSN_4913.JPG to Google Photos.
+2024-11-14 14:21:27,452 - ERROR - Failed to upload SSN_4650.JPG to Google Photos.
+2024-11-14 14:21:28,503 - ERROR - Failed to upload SSN_4693.JPG to Google Photos.
+2024-11-14 14:21:29,777 - ERROR - Failed to upload SSN_4687.JPG to Google Photos.
+2024-11-14 14:21:31,820 - ERROR - Failed to add SSN_4718.JPG to the album.
+2024-11-14 14:21:33,301 - ERROR - Failed to upload SSN_4876.JPG to Google Photos.
+2024-11-14 14:21:34,684 - ERROR - Failed to upload SSN_4690.JPG to Google Photos.
+2024-11-14 14:21:36,748 - ERROR - Failed to add SSN_4860.JPG to the album.
+2024-11-14 14:21:41,037 - ERROR - Failed to upload SSN_4928.JPG to Google Photos.
+2024-11-14 14:21:42,261 - ERROR - Failed to upload SSN_4914.JPG to Google Photos.
+2024-11-14 14:21:44,626 - ERROR - Failed to add SSN_4929.JPG to the album.
+2024-11-14 14:21:49,513 - INFO - successfully completed the upload in Google photos for SRE TCS Humana Holiday Celebration - 2024
+2024-11-14 14:25:56,388 - INFO - "GET /?state=63svi4SBoT6vfyCOVSITCXYE3BAfJS&code=4/0AeanS0YLpuPyteokQNf47rdqxhOYKy3MBMvyLrw8JU-77gxLLTVwBTZLLnRSL0_YNiAuLg&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2024-11-14 14:25:57,148 - INFO - Album 'SRE TCS Humana Holiday Celebration - 2024' already exists with ID: AMmQqlcY7lWvQDJ7ktRpZrlfktK0e4-f0BfPvfHSJLQ9VnwsptLSkj38ARVLkCUuA3-EIelWGppw
+2024-11-14 14:27:11,821 - ERROR - Failed to upload SSN_4914.JPG to Google Photos.
+2024-11-14 14:27:11,824 - INFO - successfully completed the upload in Google photos for SRE TCS Humana Holiday Celebration - 2024
+2024-11-14 14:55:57,658 - INFO - "GET /?state=Vgr90Z9vQI0amlOUEDklSxa0jjL0Cs&code=4/0AeanS0YjnUE8NFa3qDPmwn0Mo53jmpDojeIxiEbMvPE9B8X9kv8fFucwUeAm6kA-a7fzdA&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2024-11-14 14:55:58,536 - INFO - Album 'SRE TCS Humana Holiday Celebration - 2024' already exists with ID: AMmQqlcY7lWvQDJ7ktRpZrlfktK0e4-f0BfPvfHSJLQ9VnwsptLSkj38ARVLkCUuA3-EIelWGppw
+2024-11-14 14:56:43,986 - ERROR - Failed to add SSN_4796.JPG to the album.
+2024-11-14 14:56:45,158 - ERROR - Failed to upload SSN_4782.JPG to Google Photos.
+2024-11-14 14:56:48,432 - ERROR - Failed to upload SSN_4810.JPG to Google Photos.
+2024-11-14 14:56:52,129 - ERROR - Failed to add SSN_4627.JPG to the album.
+2024-11-14 14:56:53,195 - ERROR - Failed to upload SSN_4802.JPG to Google Photos.
+2024-11-14 14:56:54,320 - ERROR - Failed to upload SSN_4619.JPG to Google Photos.
+2024-11-14 14:56:55,294 - ERROR - Failed to upload SSN_4681.JPG to Google Photos.
+2024-11-14 14:56:56,429 - ERROR - Failed to upload SSN_4669.JPG to Google Photos.
+2024-11-14 14:56:57,429 - ERROR - Failed to upload SSN_4872.JPG to Google Photos.
+2024-11-14 14:56:58,576 - ERROR - Failed to upload SSN_4866.JPG to Google Photos.
+2024-11-14 14:57:00,307 - ERROR - Failed to add SSN_4734.JPG to the album.
+2024-11-14 14:57:01,340 - ERROR - Failed to upload SSN_4720.JPG to Google Photos.
+2024-11-14 14:57:02,377 - ERROR - Failed to upload SSN_4678.JPG to Google Photos.
+2024-11-14 14:57:04,006 - ERROR - Failed to add SSN_4724.JPG to the album.
+2024-11-14 14:57:25,697 - INFO - successfully completed the upload in Google photos for SRE TCS Humana Holiday Celebration - 2024
+2024-11-14 15:01:04,267 - INFO - "GET /?state=RbgUwnqnysKPT9dbRATREefJ4divbm&code=4/0AeanS0YQQnnAzVaqgN4-M5sLAEAzqtuStfaz3BxL1_r2a-oF9_qA92JGJ4kqk1cNk8Zmag&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2024-11-14 15:01:04,914 - INFO - Album 'SRE TCS Humana Holiday Celebration - 2024' already exists with ID: AMmQqlcY7lWvQDJ7ktRpZrlfktK0e4-f0BfPvfHSJLQ9VnwsptLSkj38ARVLkCUuA3-EIelWGppw
+2024-11-14 15:01:29,047 - INFO - successfully completed the upload in Google photos for SRE TCS Humana Holiday Celebration - 2024
+2024-11-14 21:12:28,581 - INFO - "GET /?state=ifcFe8l9ZxUOE6Ddi1BK0FzUyaLyeR&code=4/0AeanS0atqHQULZug6O3TSYGi9YH3Wk-Raz2zKJD3Ne2iRjrjQJuIaTY6SKo723uA-grdXQ&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2024-11-14 21:12:29,345 - INFO - Album 'SRE TCS Humana Holiday Celebration - 2024' already exists with ID: AMmQqlcY7lWvQDJ7ktRpZrlfktK0e4-f0BfPvfHSJLQ9VnwsptLSkj38ARVLkCUuA3-EIelWGppw
+2024-11-14 21:12:52,540 - INFO - successfully completed the upload in Google photos for SRE TCS Humana Holiday Celebration - 2024
+2025-02-10 15:13:37,274 - INFO - "GET /?state=Ge51R0GURonMJjBS2xePmN7FeU6yvM&code=4/0ASVgi3J8kzLwBhPbKd0sPBmMQjfTxg9T2xRc7Sl6ZUVDG2EOq_alEoo10kuYb7_W6utNfg&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2025-02-10 15:13:40,953 - ERROR - Failed to add envato-labs-image-edit.png to the album.
+2025-02-10 15:13:40,956 - INFO - successfully completed the upload in Google photos for SSNTest
+2025-02-10 15:15:13,253 - INFO - "GET /?state=lliknALOyY1tnKH5SBd4zekvGFEIV9&code=4/0ASVgi3Llvn12YvcRF57S78lxwnVv11SpmqE89YPhTLKeluR5E0SJ9nEYNFxFieotNOr9aA&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2025-02-10 15:15:14,644 - INFO - successfully completed the upload in Google photos for SSNTest
+2025-02-10 15:16:39,054 - INFO - "GET /?state=3KNrTGayRwf20tbcBkrKO5auqL0Jk8&code=4/0ASVgi3I7WMxU61sEJxtsBtENoqpsoc0ELAOX1OxdGO9ub_eDuCjaPtumN-K3knXmmVjYUg&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2025-02-10 15:16:42,535 - ERROR - Failed to add envato-labs-image-edit.png to the album.
+2025-02-10 15:16:42,537 - INFO - successfully completed the upload in Google photos for SSNTest
+2025-02-10 15:18:05,542 - INFO - "GET /?state=jLpG4FqATy3iFMso9WPAItdNrXWj4i&code=4/0ASVgi3JVkQHoIaEzYlJo2WJ_dHSkNJhYIDAIXG-1v9RBXm0UeliHt1QHNdaZ9sh5YmGzEg&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2025-02-10 15:18:09,131 - ERROR - Failed to add envato-labs-image-edit.png to the album.
+2025-02-10 15:18:09,133 - INFO - successfully completed the upload in Google photos for SSNTest2
+2025-02-10 15:21:18,359 - INFO - "GET /?state=qwD5EOIsPkpPQZgxpOsmtqZ1RY1aSw&code=4/0ASVgi3I2Ow34H29R-z0L-pPL0GnN86id4fhYMRtkkJrJZ4g8cRNusfLS0rYIKJf85eUgIg&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2025-02-10 15:21:19,889 - INFO - successfully completed the upload in Google photos for SSNTest2
+2025-02-10 15:23:46,225 - INFO - "GET /?state=9377Hvxb6OotKlD9uB1CErhKjpw0h2&code=4/0ASVgi3IM_iOi3v8X-A5JuGYK8k5wVjUiywsV6ZnNJQyY4NOzOeZwk76cAhx9HrBY8sPOJw&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2025-02-10 15:23:50,037 - ERROR - Failed to add envato-labs-image-edit.jpg to the album.
+2025-02-10 15:23:50,040 - INFO - successfully completed the upload in Google photos for SSNTest2
+2025-02-10 15:24:32,564 - INFO - "GET /?state=ullWtxk2aaAIKSMl4bkD8mZA4ekWo9&code=4/0ASVgi3J5RyBlfvAbYRs20FsGiSMgYbVNPWkv-gPtCJ8R4B1X6Cdpuw99aW6VDod3m6Ta-Q&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2025-02-10 15:24:59,426 - INFO - successfully completed the upload in Google photos for SSNTest2
+2025-02-10 15:26:40,854 - INFO - "GET /?state=T1HkFcorw1atXywE1ozQERVrl1LiXG&code=4/0ASVgi3KmZI9sEtVmtEPIJ6Ahja_XJPt-N9SqlaVMjWBZRPb4oXOlUwnXXRtzQH7-VOlxAg&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2025-02-10 15:27:02,404 - ERROR - An error occurred: HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Read timed out. (read timeout=None)
+2025-02-10 15:27:20,543 - INFO - "GET /?state=rmW91Poy5ayzQCgLuqKTwnFq5Ghx4Q&code=4/0ASVgi3JJFczmAQOpjtlJn-HuAowRvLigURARTLwm48Xe5-bnIaxcgbFc2NcwxysSnHQd_Q&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2025-02-10 15:27:44,357 - INFO - successfully completed the upload in Google photos for SSN TEXST 3
