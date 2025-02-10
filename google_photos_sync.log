@@ -359,3 +359,819 @@
 2025-02-10 15:27:02,404 - ERROR - An error occurred: HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Read timed out. (read timeout=None)
 2025-02-10 15:27:20,543 - INFO - "GET /?state=rmW91Poy5ayzQCgLuqKTwnFq5Ghx4Q&code=4/0ASVgi3JJFczmAQOpjtlJn-HuAowRvLigURARTLwm48Xe5-bnIaxcgbFc2NcwxysSnHQd_Q&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
 2025-02-10 15:27:44,357 - INFO - successfully completed the upload in Google photos for SSN TEXST 3
+2025-02-10 15:35:49,467 - INFO - "GET /?state=qRZqAYRePGqTCrLdntbe4FqdHg3zNu&code=4/0ASVgi3KMFjNxS0alCvHNFKKWVv9cCNkBi7DjuZAzssN8ltsbCkbAo3EOqvXV22lyvTEMng&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2025-02-10 15:35:51,748 - ERROR - An error occurred: name 'album_name' is not defined
+2025-02-10 15:37:08,470 - ERROR - An error occurred: name 'album_name' is not defined
+2025-02-10 15:38:43,852 - ERROR - An error occurred: name 'album_name' is not defined
+2025-02-10 15:39:00,191 - ERROR - An error occurred: name 'album_name' is not defined
+2025-02-10 15:39:21,785 - ERROR - An error occurred: name 'album_name' is not defined
+2025-02-10 15:39:58,142 - ERROR - An error occurred: name 'album_name' is not defined
+2025-02-10 15:40:16,469 - ERROR - An error occurred: name 'album_name' is not defined
+2025-02-10 15:41:01,825 - INFO - Found shared album 'SSN TEXST 3' with ID: AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA
+2025-02-10 15:41:03,659 - ERROR - Failed to add SSN-135.JPG to the album.
+2025-02-10 15:41:05,404 - ERROR - Failed to add SSN-137.JPG to the album.
+2025-02-10 15:41:07,350 - ERROR - Failed to add SSN-136.JPG to the album.
+2025-02-10 15:41:09,292 - ERROR - Failed to add SSN-143.JPG to the album.
+2025-02-10 15:41:11,237 - ERROR - Failed to add SSN-142.JPG to the album.
+2025-02-10 15:41:12,938 - ERROR - Failed to add SSN-140.JPG to the album.
+2025-02-10 15:41:14,929 - ERROR - Failed to add SSN-141.JPG to the album.
+2025-02-10 15:41:16,910 - ERROR - Failed to add SSN-138.JPG to the album.
+2025-02-10 15:41:18,512 - ERROR - Failed to add SSN-139.JPG to the album.
+2025-02-10 15:41:18,516 - INFO - successfully completed the upload in Google photos for SSN TEXST 3
+2025-02-10 15:42:48,230 - INFO - "GET /?state=DAbFXnTmqm36VdvZVXOjssA0X6v0ke&code=4/0ASVgi3I4rF-5FqGw_p1sJnwyu1BtZTiOfScMSZTkcIE4_x-yBloX2v03Ek77qwAMrdHZug&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2025-02-10 15:42:50,254 - INFO - Found shared album 'SSN TEXST 3' with ID: AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA
+2025-02-10 15:42:51,862 - ERROR - Failed to add SSN-135.JPG to the album.
+2025-02-10 15:42:53,518 - ERROR - Failed to add SSN-137.JPG to the album.
+2025-02-10 15:42:55,382 - ERROR - Failed to add SSN-136.JPG to the album.
+2025-02-10 15:42:57,480 - ERROR - Failed to add SSN-143.JPG to the album.
+2025-02-10 15:42:59,587 - ERROR - Failed to add SSN-142.JPG to the album.
+2025-02-10 15:43:01,317 - ERROR - Failed to add SSN-140.JPG to the album.
+2025-02-10 15:43:03,051 - ERROR - Failed to add SSN-141.JPG to the album.
+2025-02-10 15:43:05,385 - ERROR - Failed to add SSN-138.JPG to the album.
+2025-02-10 15:43:07,482 - ERROR - Failed to add SSN-139.JPG to the album.
+2025-02-10 15:43:07,485 - INFO - successfully completed the upload in Google photos for SSN TEXST 3
+2025-02-10 15:47:57,006 - INFO - "GET /?state=fMOUqxUN3XXm7iGuZo3Ad1C7RBPUfc&code=4/0ASVgi3Ki5SMzVzE_P3l7KY5YsrE3aI6Er2d9IqT-vr-DsOPs9kvDYDe_IrnLPQ34TWc64w&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2025-02-10 15:47:59,324 - INFO - Found shared album 'SSN TEXST 3' with ID: AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA
+2025-02-10 15:48:01,158 - ERROR - Failed to add SSN-137.JPG to the album.
+2025-02-10 15:48:01,158 - ERROR - An error occurred: name 'traceback' is not defined
+2025-02-10 15:48:56,059 - INFO - Found shared album 'SSN TEXST 3' with ID: AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA
+2025-02-10 15:48:57,674 - ERROR - Failed to add SSN-137.JPG to the album.
+2025-02-10 15:48:57,674 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:48:59,627 - ERROR - Failed to add SSN-136.JPG to the album.
+2025-02-10 15:48:59,628 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:49:02,058 - ERROR - Failed to add SSN-143.JPG to the album.
+2025-02-10 15:49:02,059 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:49:04,241 - ERROR - Failed to add SSN-142.JPG to the album.
+2025-02-10 15:49:04,241 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:49:06,373 - ERROR - Failed to add SSN-140.JPG to the album.
+2025-02-10 15:49:06,373 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:49:08,937 - ERROR - Failed to add SSN-141.JPG to the album.
+2025-02-10 15:49:08,937 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:49:10,982 - ERROR - Failed to add SSN-138.JPG to the album.
+2025-02-10 15:49:10,982 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:49:12,728 - ERROR - Failed to add SSN-139.JPG to the album.
+2025-02-10 15:49:12,729 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:49:12,732 - INFO - successfully completed the upload in Google photos for SSN TEXST 3
+2025-02-10 15:50:47,052 - INFO - "GET /?state=c7k324tlRcOsP88bYXLHQ936tIkM6L&code=4/0ASVgi3IWG_dpEMuKI6V1YTwSAZmDilyO2duclqnkm4CExlQvh-Lz4UFOvYYk7S_L01cT_A&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2025-02-10 15:50:48,855 - INFO - Found shared album 'SSN TEXST 3' with ID: AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA
+2025-02-10 15:50:48,857 - INFO - successfully completed the upload in Google photos for SSN TEXST 3
+2025-02-10 15:51:06,642 - INFO - "GET /?state=4BBF4EsokwwVA1UwEMoCdyIi9dG3il&code=4/0ASVgi3IqjqrionBG7KiNDm_89IQHWe9CftJG0w6n4kNuCNUWQlaGFxct2HjR_aWVNK8uWA&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2025-02-10 15:51:09,142 - INFO - Found shared album 'SSN TEXST 3' with ID: AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA
+2025-02-10 15:51:11,104 - ERROR - Failed to add SSN-135.JPG to the album.
+2025-02-10 15:51:11,104 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:51:12,802 - ERROR - Failed to add SSN-137.JPG to the album.
+2025-02-10 15:51:12,803 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:51:14,996 - ERROR - Failed to add SSN-136.JPG to the album.
+2025-02-10 15:51:14,996 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:51:16,837 - ERROR - Failed to add SSN-142.JPG to the album.
+2025-02-10 15:51:16,837 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:51:18,575 - ERROR - Failed to add SSN-140.JPG to the album.
+2025-02-10 15:51:18,575 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:51:20,518 - ERROR - Failed to add SSN-141.JPG to the album.
+2025-02-10 15:51:20,518 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:51:22,673 - ERROR - Failed to add SSN-138.JPG to the album.
+2025-02-10 15:51:22,674 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:51:24,832 - ERROR - Failed to add SSN-139.JPG to the album.
+2025-02-10 15:51:24,832 - ERROR - An error occurred:
+NoneType: None
+
+2025-02-10 15:51:24,835 - INFO - successfully completed the upload in Google photos for SSN TEXST 3
+2025-02-10 16:00:46,529 - INFO - "GET /?state=qQDCvNIIXHYXYa0XWQZL7YCOhSf9uA&code=4/0ASVgi3ILKjz_iXpKZAKBCLW0hHDBzGRSWW9xxVhcVTTbxqJFkBkgOdDhld0hctkt1874pQ&scope=https://www.googleapis.com/auth/photoslibrary HTTP/1.1" 200 65
+2025-02-10 16:00:48,855 - INFO - Found shared album 'SSN TEXST 3' with ID: AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA
+2025-02-10 16:00:50,252 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "photoslibrary.googleapis.com",
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:00:50,785 - ERROR - Failed to add SSN-135.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:00:50,787 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-135.JPG to error folder.
+2025-02-10 16:00:50,798 - INFO - Uploaded 1/9 files to Google Photos.
+2025-02-10 16:00:51,990 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum",
+          "service": "photoslibrary.googleapis.com"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:00:52,498 - ERROR - Failed to add SSN-137.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:00:52,501 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-137.JPG to error folder.
+2025-02-10 16:00:52,510 - INFO - Uploaded 2/9 files to Google Photos.
+2025-02-10 16:00:53,947 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "photoslibrary.googleapis.com",
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:00:54,368 - ERROR - Failed to add SSN-136.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:00:54,370 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-136.JPG to error folder.
+2025-02-10 16:00:54,380 - INFO - Uploaded 3/9 files to Google Photos.
+2025-02-10 16:00:55,796 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum",
+          "service": "photoslibrary.googleapis.com"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:00:56,210 - ERROR - Failed to add SSN-143.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:00:56,212 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-143.JPG to error folder.
+2025-02-10 16:00:56,218 - INFO - Uploaded 4/9 files to Google Photos.
+2025-02-10 16:00:57,927 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "photoslibrary.googleapis.com",
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:00:58,365 - ERROR - Failed to add SSN-142.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:00:58,365 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-142.JPG to error folder.
+2025-02-10 16:00:58,370 - INFO - Uploaded 5/9 files to Google Photos.
+2025-02-10 16:00:59,929 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "photoslibrary.googleapis.com",
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:01:00,416 - ERROR - Failed to add SSN-140.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:01:00,417 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-140.JPG to error folder.
+2025-02-10 16:01:00,424 - INFO - Uploaded 6/9 files to Google Photos.
+2025-02-10 16:01:03,012 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "photoslibrary.googleapis.com",
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:01:03,494 - ERROR - Failed to add SSN-141.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:01:03,496 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-141.JPG to error folder.
+2025-02-10 16:01:03,505 - INFO - Uploaded 7/9 files to Google Photos.
+2025-02-10 16:01:05,806 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "photoslibrary.googleapis.com",
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:01:06,249 - ERROR - Failed to add SSN-138.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:01:06,252 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-138.JPG to error folder.
+2025-02-10 16:01:06,260 - INFO - Uploaded 8/9 files to Google Photos.
+2025-02-10 16:01:07,863 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum",
+          "service": "photoslibrary.googleapis.com"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:01:08,297 - ERROR - Failed to add SSN-139.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:01:08,297 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-139.JPG to error folder.
+2025-02-10 16:01:08,302 - INFO - Uploaded 9/9 files to Google Photos.
+2025-02-10 16:01:08,307 - ERROR - An error occurred: Traceback (most recent call last):
+  File "/Users/bala/Projects/GooglePhotosSyncScript/SyncPhotosAPI.py", line 189, in main
+    sync_photos_to_google_photos(LOCAL_PHOTOS_FOLDER_PATH)
+  File "/Users/bala/Projects/GooglePhotosSyncScript/SyncPhotosAPI.py", line 182, in sync_photos_to_google_photos
+    delete_token_file()
+    ^^^^^^^^^^^^^^^^^
+NameError: name 'delete_token_file' is not defined
+
+2025-02-10 16:02:41,642 - INFO - Found shared album 'SSN TEXST 3' with ID: AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA
+2025-02-10 16:02:43,080 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "photoslibrary.googleapis.com",
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:02:43,498 - ERROR - Failed to add SSN-135.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:02:43,500 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-135.JPG to error folder.
+2025-02-10 16:02:43,509 - INFO - Uploaded 1/9 files to Google Photos.
+2025-02-10 16:02:44,757 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "photoslibrary.googleapis.com",
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:02:45,136 - ERROR - Failed to add SSN-137.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:02:45,137 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-137.JPG to error folder.
+2025-02-10 16:02:45,146 - INFO - Uploaded 2/9 files to Google Photos.
+2025-02-10 16:02:46,398 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum",
+          "service": "photoslibrary.googleapis.com"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:02:46,906 - ERROR - Failed to add SSN-136.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:02:46,907 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-136.JPG to error folder.
+2025-02-10 16:02:46,916 - INFO - Uploaded 3/9 files to Google Photos.
+2025-02-10 16:02:48,421 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum",
+          "service": "photoslibrary.googleapis.com"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:02:48,851 - ERROR - Failed to add SSN-143.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:02:48,853 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-143.JPG to error folder.
+2025-02-10 16:02:48,861 - INFO - Uploaded 4/9 files to Google Photos.
+2025-02-10 16:02:50,453 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "photoslibrary.googleapis.com",
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:02:51,001 - ERROR - Failed to add SSN-142.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:02:51,002 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-142.JPG to error folder.
+2025-02-10 16:02:51,008 - INFO - Uploaded 5/9 files to Google Photos.
+2025-02-10 16:02:52,361 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "photoslibrary.googleapis.com",
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:02:52,743 - ERROR - Failed to add SSN-140.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:02:52,744 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-140.JPG to error folder.
+2025-02-10 16:02:52,752 - INFO - Uploaded 6/9 files to Google Photos.
+2025-02-10 16:02:53,977 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum",
+          "service": "photoslibrary.googleapis.com"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:02:54,378 - ERROR - Failed to add SSN-141.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:02:54,379 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-141.JPG to error folder.
+2025-02-10 16:02:54,384 - INFO - Uploaded 7/9 files to Google Photos.
+2025-02-10 16:02:56,178 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "photoslibrary.googleapis.com",
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:02:56,546 - ERROR - Failed to add SSN-138.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:02:56,547 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-138.JPG to error folder.
+2025-02-10 16:02:56,551 - INFO - Uploaded 8/9 files to Google Photos.
+2025-02-10 16:02:58,042 - ERROR - Failed to join shared album 'AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA'. Response: {
+  "error": {
+    "code": 403,
+    "message": "Request had insufficient authentication scopes.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "photoslibrary.googleapis.com",
+          "method": "google.photos.library.v1.PhotosLibrary.JoinSharedAlbum"
+        }
+      }
+    ]
+  }
+}
+
+2025-02-10 16:02:58,414 - ERROR - Failed to add SSN-139.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:02:58,415 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-139.JPG to error folder.
+2025-02-10 16:02:58,422 - INFO - Uploaded 9/9 files to Google Photos.
+2025-02-10 16:02:58,422 - INFO - Completed upload to Google Photos for album 'SSN TEXST 3'.
+2025-02-10 16:07:19,954 - INFO - "GET /?state=7LGzYa1fhuN3sZPdQVEjkrOfSokwib&code=4/0ASVgi3JkIGzxWKtxfgj3zZCgANCTEFJjqjZAeal_BxuqdH64e7dEcrhmevxVLq0qw2F5TA&scope=https://www.googleapis.com/auth/photoslibrary.sharing%20https://www.googleapis.com/auth/photoslibrary.readonly%20https://www.googleapis.com/auth/photoslibrary.appendonly HTTP/1.1" 200 65
+2025-02-10 16:07:22,379 - INFO - Found shared album 'SSN TEXST 3' with ID: AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA
+2025-02-10 16:07:22,383 - INFO - Successfully completed upload to Google Photos for 'SSN TEXST 3'
+2025-02-10 16:07:22,387 - ERROR - An error occurred: Traceback (most recent call last):
+  File "/Users/bala/Projects/GooglePhotosSyncScript/SyncPhotosAPI.py", line 208, in main
+    sync_photos_to_google_photos(LOCAL_PHOTOS_FOLDER_PATH)
+  File "/Users/bala/Projects/GooglePhotosSyncScript/SyncPhotosAPI.py", line 203, in sync_photos_to_google_photos
+    delete_token_file()
+    ^^^^^^^^^^^^^^^^^
+NameError: name 'delete_token_file' is not defined
+
+2025-02-10 16:07:58,954 - INFO - Found shared album 'SSN TEXST 3' with ID: AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA
+2025-02-10 16:08:00,764 - ERROR - Failed to add SSN-135.JPG to album.
+2025-02-10 16:08:00,764 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-135.JPG to error folder.
+2025-02-10 16:08:02,609 - ERROR - Failed to add SSN-137.JPG to album.
+2025-02-10 16:08:02,610 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-137.JPG to error folder.
+2025-02-10 16:08:04,355 - ERROR - Failed to add SSN-136.JPG to album.
+2025-02-10 16:08:04,356 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-136.JPG to error folder.
+2025-02-10 16:08:06,295 - ERROR - Failed to add SSN-143.JPG to album.
+2025-02-10 16:08:06,297 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-143.JPG to error folder.
+2025-02-10 16:08:08,071 - ERROR - Failed to add SSN-142.JPG to album.
+2025-02-10 16:08:08,072 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-142.JPG to error folder.
+2025-02-10 16:08:10,897 - ERROR - Failed to add SSN-140.JPG to album.
+2025-02-10 16:08:10,898 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-140.JPG to error folder.
+2025-02-10 16:08:12,650 - ERROR - Failed to add SSN-141.JPG to album.
+2025-02-10 16:08:12,651 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-141.JPG to error folder.
+2025-02-10 16:08:15,819 - ERROR - Failed to add SSN-138.JPG to album.
+2025-02-10 16:08:15,820 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-138.JPG to error folder.
+2025-02-10 16:08:17,610 - ERROR - Failed to add SSN-139.JPG to album.
+2025-02-10 16:08:17,610 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-139.JPG to error folder.
+2025-02-10 16:08:17,611 - INFO - Successfully completed upload to Google Photos for 'SSN TEXST 3'
+2025-02-10 16:08:17,613 - ERROR - An error occurred: Traceback (most recent call last):
+  File "/Users/bala/Projects/GooglePhotosSyncScript/SyncPhotosAPI.py", line 208, in main
+    sync_photos_to_google_photos(LOCAL_PHOTOS_FOLDER_PATH)
+  File "/Users/bala/Projects/GooglePhotosSyncScript/SyncPhotosAPI.py", line 203, in sync_photos_to_google_photos
+    delete_token_file()
+    ^^^^^^^^^^^^^^^^^
+NameError: name 'delete_token_file' is not defined
+
+2025-02-10 16:10:45,092 - INFO - Found shared album 'SSN TEXST 3' with ID: AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA
+2025-02-10 16:10:46,632 - ERROR - Failed to add SSN-135.JPG to album.
+2025-02-10 16:10:46,634 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-135.JPG to error folder.
+2025-02-10 16:10:48,451 - ERROR - Failed to add SSN-137.JPG to album.
+2025-02-10 16:10:48,451 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-137.JPG to error folder.
+2025-02-10 16:10:50,095 - ERROR - Failed to add SSN-136.JPG to album.
+2025-02-10 16:10:50,095 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-136.JPG to error folder.
+2025-02-10 16:10:51,938 - ERROR - Failed to add SSN-143.JPG to album.
+2025-02-10 16:10:51,939 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-143.JPG to error folder.
+2025-02-10 16:10:53,784 - ERROR - Failed to add SSN-142.JPG to album.
+2025-02-10 16:10:53,785 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-142.JPG to error folder.
+2025-02-10 16:10:55,934 - ERROR - Failed to add SSN-140.JPG to album.
+2025-02-10 16:10:55,934 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-140.JPG to error folder.
+2025-02-10 16:10:57,674 - ERROR - Failed to add SSN-141.JPG to album.
+2025-02-10 16:10:57,674 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-141.JPG to error folder.
+2025-02-10 16:10:59,476 - ERROR - Failed to add SSN-138.JPG to album.
+2025-02-10 16:10:59,477 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-138.JPG to error folder.
+2025-02-10 16:11:01,662 - ERROR - Failed to add SSN-139.JPG to album.
+2025-02-10 16:11:01,662 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-139.JPG to error folder.
+2025-02-10 16:11:01,664 - INFO - Successfully completed upload to Google Photos for 'SSN TEXST 3'
+2025-02-10 16:12:40,335 - INFO - Album 'SSN TEXST 4' not found in personal or shared albums.
+2025-02-10 16:12:40,771 - INFO - Album 'SSN TEXST 4' created with ID: AMmQqlf3vYEdL6ALM8dWYqkOkSg6e4B_fBk_88LpkrwdthKLtNokWgT_2ZxN81ND6JD-qC4Vdw-L
+2025-02-10 16:12:42,635 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-135.JPG to archive folder.
+2025-02-10 16:12:44,848 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-137.JPG to archive folder.
+2025-02-10 16:12:47,042 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-136.JPG to archive folder.
+2025-02-10 16:12:49,900 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-143.JPG to archive folder.
+2025-02-10 16:12:52,666 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-142.JPG to archive folder.
+2025-02-10 16:12:55,308 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-140.JPG to archive folder.
+2025-02-10 16:12:57,667 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-141.JPG to archive folder.
+2025-02-10 16:13:00,451 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-138.JPG to archive folder.
+2025-02-10 16:13:03,019 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-139.JPG to archive folder.
+2025-02-10 16:13:03,021 - INFO - Successfully completed upload to Google Photos for 'SSN TEXST 4'
+2025-02-10 16:14:56,072 - INFO - Found shared album 'SSN TEXST 3' with ID: AMmQqlf_0NESVQOADPhKI8q9d-ZTK7-L1Pugl4aCevnxPZP0nKm-Ncb_iuMyhde2maW4tilmKBvSAb5fZHr1MIlnK6-6XST8xA
+2025-02-10 16:14:57,903 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-135.JPG to error folder.
+2025-02-10 16:14:57,904 - ERROR - Failed to add SSN-135.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:14:59,952 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-137.JPG to error folder.
+2025-02-10 16:14:59,952 - ERROR - Failed to add SSN-137.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:15:02,100 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-136.JPG to error folder.
+2025-02-10 16:15:02,100 - ERROR - Failed to add SSN-136.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:15:04,236 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-143.JPG to error folder.
+2025-02-10 16:15:04,237 - ERROR - Failed to add SSN-143.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:15:07,731 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-142.JPG to error folder.
+2025-02-10 16:15:07,732 - ERROR - Failed to add SSN-142.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:15:09,665 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-140.JPG to error folder.
+2025-02-10 16:15:09,665 - ERROR - Failed to add SSN-140.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:15:11,622 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-141.JPG to error folder.
+2025-02-10 16:15:11,622 - ERROR - Failed to add SSN-141.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:15:14,484 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-138.JPG to error folder.
+2025-02-10 16:15:14,484 - ERROR - Failed to add SSN-138.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:15:16,432 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-139.JPG to error folder.
+2025-02-10 16:15:16,432 - ERROR - Failed to add SSN-139.JPG to album. Response: {
+  "error": {
+    "code": 400,
+    "message": "No permission to add media items to this album.",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+2025-02-10 16:15:16,433 - INFO - Successfully completed upload to Google Photos for 'SSN TEXST 3'
+2025-02-10 16:16:37,955 - INFO - Album 'SSN TEXST 3 new' not found in personal or shared albums.
+2025-02-10 16:16:38,520 - INFO - Album 'SSN TEXST 3 new' created with ID: AMmQqlfKiK3vJ1tCjyoILe0EgTWu8XgF3NX_xm5_eESD6qRBAhGHIjW9l9AdDUFihY9sBBT4QbIY
+2025-02-10 16:16:40,607 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-135.JPG to archive folder.
+2025-02-10 16:16:40,607 - INFO - Successfully added SSN-135.JPG to private album AMmQqlfKiK3vJ1tCjyoILe0EgTWu8XgF3NX_xm5_eESD6qRBAhGHIjW9l9AdDUFihY9sBBT4QbIY
+2025-02-10 16:16:42,652 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-137.JPG to archive folder.
+2025-02-10 16:16:42,652 - INFO - Successfully added SSN-137.JPG to private album AMmQqlfKiK3vJ1tCjyoILe0EgTWu8XgF3NX_xm5_eESD6qRBAhGHIjW9l9AdDUFihY9sBBT4QbIY
+2025-02-10 16:16:45,161 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-136.JPG to archive folder.
+2025-02-10 16:16:45,161 - INFO - Successfully added SSN-136.JPG to private album AMmQqlfKiK3vJ1tCjyoILe0EgTWu8XgF3NX_xm5_eESD6qRBAhGHIjW9l9AdDUFihY9sBBT4QbIY
+2025-02-10 16:16:47,564 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-143.JPG to archive folder.
+2025-02-10 16:16:47,564 - INFO - Successfully added SSN-143.JPG to private album AMmQqlfKiK3vJ1tCjyoILe0EgTWu8XgF3NX_xm5_eESD6qRBAhGHIjW9l9AdDUFihY9sBBT4QbIY
+2025-02-10 16:16:49,867 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-142.JPG to archive folder.
+2025-02-10 16:16:49,867 - INFO - Successfully added SSN-142.JPG to private album AMmQqlfKiK3vJ1tCjyoILe0EgTWu8XgF3NX_xm5_eESD6qRBAhGHIjW9l9AdDUFihY9sBBT4QbIY
+2025-02-10 16:16:52,075 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-140.JPG to archive folder.
+2025-02-10 16:16:52,075 - INFO - Successfully added SSN-140.JPG to private album AMmQqlfKiK3vJ1tCjyoILe0EgTWu8XgF3NX_xm5_eESD6qRBAhGHIjW9l9AdDUFihY9sBBT4QbIY
+2025-02-10 16:16:54,326 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-141.JPG to archive folder.
+2025-02-10 16:16:54,326 - INFO - Successfully added SSN-141.JPG to private album AMmQqlfKiK3vJ1tCjyoILe0EgTWu8XgF3NX_xm5_eESD6qRBAhGHIjW9l9AdDUFihY9sBBT4QbIY
+2025-02-10 16:16:56,766 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-138.JPG to archive folder.
+2025-02-10 16:16:56,766 - INFO - Successfully added SSN-138.JPG to private album AMmQqlfKiK3vJ1tCjyoILe0EgTWu8XgF3NX_xm5_eESD6qRBAhGHIjW9l9AdDUFihY9sBBT4QbIY
+2025-02-10 16:16:59,290 - INFO - Moved /Users/bala/Desktop/Test/GoogleAlbum/SSN-139.JPG to archive folder.
+2025-02-10 16:16:59,290 - INFO - Successfully added SSN-139.JPG to private album AMmQqlfKiK3vJ1tCjyoILe0EgTWu8XgF3NX_xm5_eESD6qRBAhGHIjW9l9AdDUFihY9sBBT4QbIY
+2025-02-10 16:16:59,292 - INFO - Successfully completed upload to Google Photos for 'SSN TEXST 3 new'

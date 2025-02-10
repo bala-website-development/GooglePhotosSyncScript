@@ -67,3 +67,5 @@ pip3 install google-auth google-auth-oauthlib google-auth-httplib2
 Run python3 SyncPhotosAPI.py
 List ls
 Copy path pwd
+
+delete token after 1 day
